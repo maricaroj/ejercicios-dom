@@ -1,0 +1,152 @@
+*{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 19px;
+    box-sizing: border-box;
+}
+.titulo{
+    font-size: 50px;
+    text-align: center;
+}
+                                        /* EJERCICIO 1 */
+
+.saludo{
+    color: #ee82ee;
+    font-size: 50px;
+    text-align: center;
+}
+.paises li{
+    font-size: 30px;
+}
+
+
+                                        /* EJERCICIO 2 */
+/* no utilicé css */
+
+                                        /* EJERCICIO 3 */
+/* no utilicé css */
+
+                                        /* EJERCICIO 4 */
+/* no utilicé css */
+
+                                        /* EJERCICIO 5 */
+
+.temperatura{
+    margin-top: 200px;
+    font-size: 50px;
+    text-align: center;
+}
+
+                                        /* EJERCICIO 6 */
+
+.barra {
+    width: 600px;
+    height: 60px;
+    background-color: rgb(234, 234, 234);
+    border-radius: 100px;
+    padding: 1px;
+    margin: 100px;
+} 
+.progress {
+    background-color: rgb(76, 175, 80);
+    border-radius: 100px;
+    height: 60px;
+    width: 0;
+}
+
+                                        /* EJERCICIO 7 */
+
+.articulo{
+    margin-left: 90px;
+    margin-top: 80px;
+    padding: 20px;
+    width: 40%;
+    height: 13vh;
+    border: 3px solid lightpink;
+    border-radius: 20px;;
+}
+.reaccion{
+    margin-right: 20px;
+    padding: 5px 15px;
+    background-color: lightgrey;
+    border-radius: 50px;
+} 
+
+                                        /* EJERCICIO 8 */
+.card{
+    width: 500px;
+    height: 450px;
+    border: 3px solid gold;
+    border-radius: 10px;
+    box-shadow: 0 0 1.25rem 0 rgba(46, 46, 46, 0.384);
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    margin: 200px auto;
+    background-color: rgb(240, 238, 238);
+}
+.texto, .link{
+    font-size: 30px;
+    color: brown;
+}
+.image{
+    width: 350px;
+    height: 250px;
+    border-radius: 10px;
+}
+
+                                        /* EJERCICIO 9 */
+
+#cardenalito, 
+#perico, 
+#oso, 
+#tortuga, 
+#caiman{
+    display: none;
+    margin: 40px;
+}
+.titulo-imagen{
+    font-size: 30px;
+}
+.animales{
+    width: 500px;
+    height: 500px;
+}
+            
+                                        /* EJERCICIO 10 */
+
+.color{
+    color: red;
+    font-weight: bold;
+    font-size: 25px;
+}
+
+                                        /* EJERCICIO 11*/
+
+.comidas, .postres, .bebidas{
+    display: none;
+    margin: 40px;
+}
+.seccion{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.pie-imagen{
+    text-align: center;
+    font-size: 30px;
+}
+.comida{
+    width: 360px;
+    height: 300px;
+}
+.show{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+                                        /* EJERCICIO 12*/
+.frases{
+    font-size: 30px;
+    margin-bottom: 10px;
+}
